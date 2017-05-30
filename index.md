@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+![Image](src)
 
-You can use the [editor on GitHub](https://github.com/andycds/jardimdanina/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Jardim da Nina
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Monte um jardim para chamar de seu. Conte com as dicas e produtos do Jardim da Nina.
 
-### Markdown
+### Objetivos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Comercialização de vasos, cachepôs, acessórios, ferramentas, insumos para jardinagem e paisagismo, além de sementes para horta.
+Oferecer ao cliente a versatilidade para montar kits de forma personalizada de acordo com suas necessidades, contando com a consultoria de profissional da área de paisagismo.
 
-```markdown
-Syntax highlighted code block
+### Público Alvo
 
-# Header 1
-## Header 2
-### Header 3
+Todos que se interessam em cultivar espécies, seja como hobby ou profissionalmente.
 
-- Bulleted
-- List
+### Filosofia
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andycds/jardimdanina/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Oferecer atendimento de qualidade, buscando a plena satisfação do cliente desde a escolha do produto, até sua utilização.
